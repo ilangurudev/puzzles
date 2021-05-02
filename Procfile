@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run notebook/prisoners_100.py
