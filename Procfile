@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run notebook/prisoners_100.py
+web: sh setup.sh && streamlit run notebooks/prisoners_100.py
