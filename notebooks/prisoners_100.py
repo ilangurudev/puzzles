@@ -120,5 +120,5 @@ if submit:
 else:
     st.markdown("Click on simulate to run a new simulation. ")
     st.markdown(
-        "To view the Ted-ed version of the puzzle, please click this [link](https://www.youtube.com/vIdStMTgNl0). For the original puzzle, refer to [this wikipedia page](https://en.wikipedia.org/wiki/100_prisoners_problem)"
+        "To view the Ted-ed version of the puzzle, please click this [link](https://www.youtube.com/watch?v=vIdStMTgNl0&ab_channel=TED-Ed). For the original puzzle, refer to [this wikipedia page](https://en.wikipedia.org/wiki/100_prisoners_problem)"
     )
