@@ -75,7 +75,7 @@ submit = st.sidebar.button("Simulate!")
 naive_prob_replmcnt = (n_thresh / n) ** n
 naive_prob_wtt_replmcnt = calc_naive_prob(n, n_thresh)
 st.sidebar.markdown(
-    f"The naive probability of success is `{naive_prob_replmcnt*100:.3f}%` (with replacement) and `{naive_prob_wtt_replmcnt*100:.3f}%` (without replacement)"
+    f"The naive probability of success is `{naive_prob_replmcnt*100:.3f}%` "
 )
 
 if submit:
